@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# CSV exports / generated files
+players_export.csv
+
+# IDE settings
+.vscode/
+.idea/
