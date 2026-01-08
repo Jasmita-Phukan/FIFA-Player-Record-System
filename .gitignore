@@ -16,9 +16,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# CSV exports / generated files
-players_export.csv
-
 # IDE settings
 .vscode/
 .idea/
