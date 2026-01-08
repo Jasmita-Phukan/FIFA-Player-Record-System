@@ -1,0 +1,100 @@
+﻿short_name,age,height_cm,weight_kg,nationality,club,wage_eur,player_positions,body_type,team_position,team_jersey_number,pace
+L. Messi,27,169,67,Argentina,FC Barcelona,565000,CF,Normal,CF,10,93
+Cristiano Ronaldo,29,185,80,Portugal,Real Madrid,565000,"LW, LM",Normal,LW,7,93
+A. Robben,30,180,80,Netherlands,FC Bayern Munchen,280000,"RM, LM, RW",Normal,SUB,10,93
+Z. Ibrahimovic,32,195,95,Sweden,Paris Saint Germain,230000,ST,Normal,ST,10,76
+M. Neuer,28,193,92,Germany,FC Bayern Munchen,510000,GK,Normal,GK,1,56
+L. Suarez,27,181,81,Uruguay,FC Barcelona,355000,"ST, CF",Normal,RES,9,83
+E. Hazard,23,173,74,Belgium,Chelsea,215000,"LM, RM",Normal,LM,10,90
+R. van Persie,30,187,71,Netherlands,Manchester United,295000,ST,Normal,RS,20,74
+B. Schweinsteiger,29,183,79,Germany,FC Bayern Munchen,310000,"CM, CDM",Normal,SUB,31,61
+F. Ribery,31,170,72,France,FC Bayern Munchen,275000,LM,Normal,SUB,7,89
+Falcao,28,177,72,Colombia,Manchester United,340000,ST,Normal,SUB,9,77
+G. Bale,24,183,74,Wales,Real Madrid,190000,"RM, RW",Lean,RW,11,94
+R. Lewandowski,25,184,78,Poland,FC Bayern Munchen,285000,"ST, CF",Normal,LS,9,80
+P. Lahm,30,170,66,Germany,FC Bayern Munchen,110000,"CDM, RB, CM",Normal,RCM,21,76
+Sergio Ramos,28,183,75,Spain,Real Madrid,225000,CB,Normal,LCB,4,79
+Thiago Silva,29,183,79,Brazil,Paris Saint Germain,325000,CB,Normal,LCB,2,78
+David Silva,28,170,67,Spain,Manchester City,370000,"LM, CAM",Normal,CAM,21,76
+L. Modric,28,174,65,Croatia,Real Madrid,340000,"CM, CDM",Lean,RCM,19,76
+J. Rodríguez,22,180,75,Colombia,Real Madrid,265000,"CAM, RW",Normal,CAM,10,79
+Neymar,22,175,64,Brazil,FC Barcelona,82000,LW,Lean,LW,11,90
+T. Courtois,22,199,88,Belgium,Chelsea,215000,GK,Lean,GK,13,76
+M. Hummels,25,192,90,Germany,Borussia Dortmund,150000,CB,Normal,SUB,15,66
+A. Di Maria,26,180,70,Argentina,Manchester United,225000,"CAM, CM, RM",Lean,LCM,7,90
+M. Reus,25,181,73,Germany,Borussia Dortmund,225000,"LM, RM, ST, CAM",Lean,SUB,11,91
+T. Muller,24,186,75,Germany,FC Bayern Munchen,240000,"RM, CAM, ST, LM",Lean,RS,25,81
+S. Aguero,26,172,74,Argentina,Manchester City,175000,ST,Normal,ST,16,88
+M. Ozil,25,183,76,Germany,Arsenal,165000,"CAM, LW",Lean,LW,11,74
+Xavi,34,170,68,Spain,FC Barcelona,265000,CM,Normal,SUB,6,66
+Y. Toure,31,189,90,Ivory Coast,Manchester City,215000,"CM, CDM",Lean,LDM,42,76
+W. Rooney,28,176,83,England,Manchester United,125000,"ST, CF, CAM",Stocky,LS,10,76
+V. Kompany,28,192,85,Belgium,Manchester City,215000,CB,Normal,RCB,4,73
+M. Gotze,22,176,72,Germany,FC Bayern Munchen,210000,"CAM, CF, CM, RM",Normal,CM,19,80
+Sergio Busquets,25,189,73,Spain,FC Barcelona,165000,"CDM, CM",Lean,CDM,5,56
+T. Kroos,24,182,78,Germany,Real Madrid,195000,"CM, CDM, CAM",Normal,LCM,8,58
+K. Benzema,26,184,79,France,Real Madrid,165000,ST,Normal,ST,9,84
+E. Cavani,27,184,71,Uruguay,Paris Saint Germain,130000,"ST, RW",Lean,RW,9,79
+Diego Costa,25,188,81,Spain,Chelsea,190000,ST,Normal,ST,19,82
+A. Vidal,27,180,75,Chile,Juventus,240000,"CM, CDM",Normal,SUB,23,78
+H. Lloris,27,188,78,France,Tottenham Hotspur,91000,GK,Lean,GK,1,56
+Javi Martinez,25,190,81,Spain,FC Bayern Munchen,220000,"CB, CDM, CM",Normal,SUB,8,53
+Juan Mata,26,174,63,Spain,Manchester United,275000,"CAM, RM",Lean,CAM,8,74
+J. Boateng,25,192,90,Germany,FC Bayern Munchen,130000,"CB, RB",Normal,CB,17,77
+P. Cech,32,196,90,Czech Republic,Chelsea,250000,GK,Normal,SUB,1,45
+C. Tevez,30,173,75,Argentina,Juventus,160000,"ST, CF",Stocky,RS,10,86
+Pique,27,192,85,Spain,FC Barcelona,160000,CB,Normal,RCB,3,66
+A. Turan,27,177,76,Turkey,Atletico Madrid,210000,"LM, RM, CAM",Normal,LM,10,76
+A. Sanchez,25,171,62,Chile,Arsenal,250000,"RW, ST",Normal,RW,17,88
+Oscar,22,179,67,Brazil,Chelsea,165000,"CAM, RM",Lean,CAM,8,81
+S. Nasri,27,175,75,France,Manchester City,205000,"LM, RM",Normal,SUB,8,79
+M. Benatia,27,188,88,Morocco,FC Bayern München,250000,CB,Normal,RCB,5,75
+S. Khedira,27,189,85,Germany,Real Madrid,175000,"CDM, CM",Normal,SUB,6,56
+G. Higuain,26,184,82,Argentina,Napoli,150000,ST,Normal,ST,9,81
+S. Sirigu,27,192,80,Italy,Paris Saint Germain,165000,GK,Normal,GK,30,80
+Casillas,33,185,84,Spain,Real Madrid,92000,GK,Normal,GK,1,55
+A. Pirlo,35,177,68,Italy,Juventus,94000,"CM, CDM",Lean,SUB,21,43
+Xabi Alonso,32,183,77,Spain,FC Bayern Munchen,175000,"CDM, CM",Normal,LCM,3,55
+D. De Rossi,30,185,83,Italy,Roma,210000,CDM,Normal,CDM,16,68
+G. Chiellini,29,186,76,Italy,Juventus,295000,CB,Normal,SUB,3,76
+W. Sneijder,30,170,67,Netherlands,Galatasaray SK,115000,"CAM, CM, LM",Normal,CAM,10,75
+Santi Cazorla,29,168,66,Spain,Arsenal,110000,"LM, CAM, RM",Stocky,SUB,19,73
+K. Huntelaar,30,186,83,Netherlands,FC Schalke 04,135000,ST,Lean,ST,25,68
+Cesc Fabregas,27,179,85,Spain,Chelsea,165000,"CM, CAM",Normal,RDM,4,68
+D. Godin,28,186,78,Uruguay,Atletico Madrid,130000,CB,Lean,LCB,2,67
+P. Pogba,21,188,80,France,Juventus,235000,"CM, CAM",Lean,LCM,6,76
+Isco,22,176,74,Spain,Real Madrid,190000,"CAM, CM, LM, CDM",Normal,SUB,23,76
+I. Gundogan,23,180,79,Germany,Borussia Dortmund,120000,"CM, CDM, CAM",Normal,SUB,8,79
+De Gea,23,193,82,Spain,Manchester United,250000,GK,Lean,GK,1,72
+J. Cuadrado,26,176,66,Colombia,Fiorentina,190000,"RM, LM",Lean,RW,11,93
+D. Sturridge,24,183,76,England,Liverpool,175000,"ST, RW",Normal,SUB,15,89
+M. Pjanic,24,180,74,Bosnia Herzegovina,Roma,77000,CM,Normal,RCM,15,72
+A. Ramsey,23,177,70,Wales,Arsenal,155000,"CM, CDM",Lean,RCM,16,71
+Pedro,26,169,64,Spain,FC Barcelona,195000,"LW, RW",Normal,RW,7,83
+E. Garay,27,188,80,Argentina,Zenit St. Petersburg,61000,CB,Normal,LCB,24,52
+B. Matuidi,27,175,70,France,Paris Saint Germain,180000,"CDM, CM",Lean,LCM,14,78
+S. Ruffier,27,188,90,France,AS Saint Etienne,160000,GK,Normal,GK,16,66
+I. Rakitic,26,184,75,Croatia,FC Barcelona,190000,"CAM, CM",Normal,RCM,4,69
+A. Candreva,27,181,72,Italy,Lazio,160000,RW,Lean,RW,87,85
+R. Weidenfeller,33,188,85,Germany,Borussia Dortmund,115000,GK,Normal,GK,1,78
+J. Terry,33,187,90,England,Chelsea,105000,CB,Normal,LCB,26,41
+P. Mertesacker,29,198,90,Germany,Arsenal,170000,CB,Normal,RCB,4,31
+J. Toulalan,30,183,77,France,AS Monaco,81000,"CDM, CM",Normal,CDM,28,53
+Pepe,31,188,81,Portugal,Real Madrid,49000,"CB, CDM",Lean,RCB,3,73
+A. Barzagli,33,186,79,Italy,Juventus,145000,CB,Normal,SUB,15,75
+N. Vidic,32,190,88,Serbia,Inter,130000,CB,Normal,SUB,15,52
+J. Mascherano,30,174,74,Argentina,FC Barcelona,160000,CB,Normal,SUB,14,69
+Negredo,28,186,79,Spain,Valencia CF,145000,ST,Stocky,SUB,7,73
+Dani Alves,31,173,64,Brazil,FC Barcelona,215000,RB,Normal,RB,22,86
+Jesus Navas,28,170,60,Spain,Manchester City,60000,RM,Lean,RM,15,91
+Diego Lopez,32,196,87,Spain,Milan,46000,GK,Lean,GK,23,90
+I. Akinfeev,28,186,78,Russia,PFC CSKA Moscow,195000,GK,Normal,GK,35,67
+J. Farfan,29,178,84,Peru,FC Schalke 04,165000,RM,Normal,SUB,17,87
+Joao Moutinho,27,171,61,Portugal,AS Monaco,175000,"CM, CAM",Normal,RCM,8,74
+S. Handanovic,29,193,89,Slovenia,Inter,165000,GK,Normal,GK,1,58
+Miranda,29,186,76,Brazil,Atletico Madrid,39000,CB,Lean,RCB,23,76
+C. Marchisio,28,179,76,Italy,Juventus,115000,"CM, CDM, CAM",Lean,CDM,8,79
+C. Bravo,31,185,84,Chile,FC Barcelona,105000,GK,Normal,GK,13,88
+E. Dzeko,28,193,84,Bosnia Herzegovina,Manchester City,36000,ST,Lean,SUB,10,71
+M. Mandzukic,28,187,84,Croatia,Atletico Madrid,150000,ST,Lean,SUB,9,75
+S. Kagawa,25,172,64,Japan,Borussia Dortmund,84000,"CAM, LM, CM",Lean,CAM,7,82
