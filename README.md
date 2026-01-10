@@ -30,6 +30,19 @@ Features
   - matplotlib
   - ipython
 * Tools: Git, GitHub, VS Code / Jupyter Notebook
+## 📸 Sample Outputs
+  ### Main Menu
+  <img width="622" height="303" alt="Picture1" src="https://github.com/user-attachments/assets/9da931bc-35a6-4104-93dd-79f8d5124d55" />
+  
+  ### Insert Player
+  <img width="651" height="263" alt="Picture4" src="https://github.com/user-attachments/assets/45e5ba53-a633-436e-b0d1-240e7b16781f" />
+  
+  ### Analysis - Top Records
+  <img width="652" height="328" alt="Picture2" src="https://github.com/user-attachments/assets/6efb4758-f4ce-4ae2-b38f-5b941d17b238" />
+  
+  ### Data Visualization
+  <img width="595" height="333" alt="Picture3" src="https://github.com/user-attachments/assets/9fb2f642-1b07-43a9-a39a-2666f0c3d44a" />
+
 ## 🗂️ Dataset Information
 
 **Source**  
